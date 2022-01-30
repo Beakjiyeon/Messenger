@@ -9,6 +9,8 @@
 <br/>
 
 ## ERD
+![image](https://user-images.githubusercontent.com/35768650/151691411-117380e7-37ba-4543-99ca-cc258ed8f2c5.png)
+
 <br/>
 
 ## 개인 작업
