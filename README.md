@@ -4,6 +4,8 @@
 <br/>
 
 ## 아키텍처
+![image](https://user-images.githubusercontent.com/35768650/151691271-d8a2340e-346c-4a1a-8149-72bdbcbb5d70.png)
+
 <br/>
 
 ## ERD
