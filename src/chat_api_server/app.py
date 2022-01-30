@@ -27,7 +27,7 @@ except:
 
 HOSTNAME = "onstove-dev-jobjavadb.ch3kdwqk9zub.ap-northeast-1.rds.amazonaws.com"
 USERNAME = "admin"
-PASSWORD = "tmxhqm123$"
+PASSWORD = 
 app.config["SQLALCHEMY_DATABASE_URI"] = "mysql+pymysql://"+USERNAME+":"+PASSWORD+"@"+HOSTNAME+":3306/worksmile"
 app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
 app.config["SQLALCHEMY_POOL_SIZE"] = 20
